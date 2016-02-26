@@ -1,6 +1,6 @@
 name: annamarialambert wedding
 favicon: null
-layout_spectrum: 0.9153288239613175
+layout_spectrum: 0
 typography_spectrum: 0.7378329047933221
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#6c4244'
     - '#3e1c1b'
   brandStrength: 0.875
-  lightness: 0.5752203369047493
+  lightness: 0.5625
   saturation: 0.9632337472867221
   rhythmicContrast: 0.19488783343695104
 purpose: []
